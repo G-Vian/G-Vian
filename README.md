@@ -13,6 +13,7 @@ My current research focuses on how urban connectivity, climate, and socio-enviro
 * **Languages:** R, Python, C++, 
 * **Tools:** INLA, PyROOT, LaTeX, Git
 
-📫 **How to reach me:** [www.linkedin.com/in/gabriel-vinicius-vian-2a3321142]
+📫 **How to reach me:** [www.linkedin.com/in/gabriel-vinicius-vian-2a3321142],
+
 **E-mail:** gabriel.vian@unesp.br
 
