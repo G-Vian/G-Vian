@@ -6,7 +6,7 @@ My current research focuses on how urban connectivity, climate, and socio-enviro
 
 ### 🔬 What I'm working on
 * **Spatial Epidemiology:** Building Bayesian hierarchical spatiotemporal models.
-* **Tools of the Trade:** R-INLA, DLNM, and Geospatial data analysis.
+* **Tools of work:** R-INLA, DLNM, and Geospatial data analysis.
 * **Network Science:** Developing weighted spatial graphs to model human mobility and epidemic pathways.
 
 ### 💻 Tech Stack
